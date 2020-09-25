@@ -6,7 +6,7 @@
 
         <!-- origin -->
     <project name="dapao1988/RingBuffer" remote="origin" path="RingBuffer" revision="master"/>
-    <project name="tinyalsa/tinyalsa" remote="origin" path="external/tinyalsa" revision="refs/branches/google-origin"/>
+    <project name="tinyalsa/tinyalsa" remote="origin" path="external/tinyalsa" revision="google-origin"/>
     <project name="dapao1988/JNIClass" remote="origin" path="JNIClass" revision="refs/tags/release-1.0.0">
         <linkfile dest="LICENSE" src="LICENSE"/>
     </project>
