@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote name="origin" alias="cannon" fetch="https://github.com/dapao1988"/>
+    <remote name="origin" alias="cannon" fetch="https://github.com"/>
     <remote name="google" fetch="https://github.com/google"/>
     <default revision="master" remote="origin" sync-j="4"/>
 
